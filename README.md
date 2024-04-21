@@ -7,8 +7,8 @@
 <h3 align="left"> <😼> Top langs:</h3>
 <div align="center">
   <a href="https://github.com/AlbaCodePe">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlbaCodePe&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaCodePe&layout=compact&langs_count=7&theme=blueberry"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AlbaCodePe&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbaCodePe&layout=compact&langs_count=7&theme=blueberry"/>
 
 
 <br>
